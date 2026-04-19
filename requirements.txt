@@ -1,0 +1,6 @@
+streamlit==1.35.0
+streamlit-drawable-canvas
+scipy
+pandas
+plotly
+pillow
